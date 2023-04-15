@@ -3,7 +3,8 @@
 #### It contains various pages and components which are present in the Fiverr and the whole application is responsive. The pages which it includes are:
 * Home Page (You will land here).
 * You can click on any card on the home page and go to the similar gigs page.
-* When you will click on any particular gig, then it will redirect you to that particular gig page with all its details.
+* You can filter out gigs according to min and max price range and/or sort by relevance (newest, popular, etc).
+* When you will click on any particular gig, then it will redirect you to that particular gig page with all its details and reviews.
 * When you click on the profile picture or name in the navbar, a drop down will appear and it can take you to:
   * Your gigs page (You can see your gigs, if your are a registered seller)
   * Orders page (You can see your orders)
@@ -11,7 +12,7 @@
   * Add new Gig page (You can add new Gig, if you are a seller)
   
 ***
-![screencapture-localhost-3000-2023-04-15-14_33_10](https://user-images.githubusercontent.com/70688937/232202972-fb110f92-f043-4814-9775-e66614f3d9f4.png)
+![screencapture-localhost-3000-2023-04-15-14_33_10](https://user-images.githubusercontent.com/70688937/232203048-648cfa22-4228-4cc3-87b8-f14a461b4bfc.png)
 ***
 ![3](https://user-images.githubusercontent.com/70688937/232202737-1bcf3cab-93c5-4ced-9762-8bb8f11686ad.png)
 ***
