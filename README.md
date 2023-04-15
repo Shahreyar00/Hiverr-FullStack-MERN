@@ -12,7 +12,7 @@
   * Add new Gig page (You can add new Gig, if you are a seller)
   
 ***
-![screencapture-localhost-3000-2023-04-15-14_33_10](https://user-images.githubusercontent.com/70688937/232203048-648cfa22-4228-4cc3-87b8-f14a461b4bfc.png)
+![11](https://user-images.githubusercontent.com/70688937/232203165-26c38f27-2f9e-4162-84e0-73c1a9bee2ae.png)
 ***
 ![3](https://user-images.githubusercontent.com/70688937/232202737-1bcf3cab-93c5-4ced-9762-8bb8f11686ad.png)
 ***
