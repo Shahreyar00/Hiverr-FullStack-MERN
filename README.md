@@ -10,7 +10,7 @@
   * Messages page (Chat between Buyer and the Seller of a particular product)
   * Add new Gig page (You can add new Gig, if you are a seller)
   
-***
+
 ![1](https://user-images.githubusercontent.com/70688937/232202683-ed1bddf2-e096-42f0-9bb7-c5c0ff868973.png)
 ***
 ![2](https://user-images.githubusercontent.com/70688937/232202710-a1d2e387-53d1-4509-8b9b-911064ff6ef2.png)
