@@ -11,9 +11,7 @@
   * Add new Gig page (You can add new Gig, if you are a seller)
   
 ***
-![1](https://user-images.githubusercontent.com/70688937/232202683-ed1bddf2-e096-42f0-9bb7-c5c0ff868973.png)
-
-![2](https://user-images.githubusercontent.com/70688937/232202710-a1d2e387-53d1-4509-8b9b-911064ff6ef2.png)
+![screencapture-localhost-3000-2023-04-15-14_33_10](https://user-images.githubusercontent.com/70688937/232202972-fb110f92-f043-4814-9775-e66614f3d9f4.png)
 ***
 ![3](https://user-images.githubusercontent.com/70688937/232202737-1bcf3cab-93c5-4ced-9762-8bb8f11686ad.png)
 ***
